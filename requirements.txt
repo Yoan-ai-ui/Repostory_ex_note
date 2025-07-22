@@ -1,0 +1,7 @@
+# Gestionnaire de Tâches Python
+# Aucune dépendance externe requise - utilise uniquement la bibliothèque standard Python
+
+# Pour les développeurs qui souhaitent étendre le projet:
+# pytest>=7.0.0          # Pour les tests unitaires
+# black>=22.0.0          # Pour le formatage de code
+# flake8>=4.0.0          # Pour l'analyse statique

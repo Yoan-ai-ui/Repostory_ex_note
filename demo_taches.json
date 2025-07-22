@@ -1,0 +1,45 @@
+{
+  "taches": [
+    {
+      "id": 1,
+      "titre": "Apprendre Python",
+      "description": "Suivre un tutoriel complet",
+      "priorite": 3,
+      "statut": "En cours",
+      "date_creation": "2025-07-22 08:22:08",
+      "date_echeance": "2025-02-01",
+      "tags": []
+    },
+    {
+      "id": 2,
+      "titre": "Faire les courses",
+      "description": "Acheter du pain, lait, oeufs",
+      "priorite": 2,
+      "statut": "En attente",
+      "date_creation": "2025-07-22 08:22:08",
+      "date_echeance": null,
+      "tags": []
+    },
+    {
+      "id": 3,
+      "titre": "Réunion équipe",
+      "description": "Point hebdomadaire à 14h",
+      "priorite": 4,
+      "statut": "En attente",
+      "date_creation": "2025-07-22 08:22:08",
+      "date_echeance": "2025-01-15",
+      "tags": []
+    },
+    {
+      "id": 4,
+      "titre": "Lire un livre",
+      "description": "Terminer le livre de science-fiction",
+      "priorite": 1,
+      "statut": "En attente",
+      "date_creation": "2025-07-22 08:22:08",
+      "date_echeance": "2025-01-30",
+      "tags": []
+    }
+  ],
+  "prochain_id": 5
+}
